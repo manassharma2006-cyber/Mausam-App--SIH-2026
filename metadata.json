@@ -1,0 +1,11 @@
+{
+  "name": "Remix Mausam - MoES Weather Portal",
+  "description": "Personalized homepage for \u0027Mausam\u0027 mobile application (SIH26076) for the Ministry of Earth Sciences (MoES) with dynamic personas (Farmer, Commuter, Traveler/Fisherman), bilingual talk back, humidity alert system, and 7-day temperature trends.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
